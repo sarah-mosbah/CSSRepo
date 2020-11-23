@@ -1,0 +1,5 @@
+html,body, header, div, nav, ul, li ,p, button {
+    padding: 0;
+    margin: 0;
+    background-color: transparent;
+}
