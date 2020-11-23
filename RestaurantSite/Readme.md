@@ -6,4 +6,4 @@ Design Screenshots
 
 
 
-![ScreenShot] (RestaurantSite/screenshots/mainpage-1.PNG)
+![Alt Text](RestaurantSite/screenshots/mainpage-1.PNG)
